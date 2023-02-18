@@ -19,7 +19,8 @@ Vue des 4 écrans dont l'oeuvre est composé.
 #### Créer en 2021 & 2022
 
 ### Description: 
-L'oeuvre Coeus Démontre une animation qui retire des couche du corps pour nous faire remttre en question notre être.
+L'oeuvre Coeus Démontre une animation qui retire des couche du corps une par une pour nous faire remttre en question notre être.
+
 Photo:
 
 ![homme](/BIAN/Medias/homme.png)
@@ -27,3 +28,5 @@ Photo:
 Vidéo:
 
 [![homme](http://img.youtube.com/vi/kWeBKWqhHTM/0.jpg)](https://www.youtube.com/watch?v=kWeBKWqhHTM)
+
+
