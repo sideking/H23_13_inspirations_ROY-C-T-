@@ -34,6 +34,8 @@ Vidéo:
 
 L'oeuvre Prometheus montre une interpretation contemporaine qui poursuit l'exploration hyperréaliste de l'humain numérique.
 
+Source: https://ianspriggs.artstation.com/projects/xYeZ51
+
 Photo:
 
 ![Prometheus](/BIAN/Medias/femme_vague.png)
