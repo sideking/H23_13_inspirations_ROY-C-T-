@@ -42,4 +42,17 @@ Photo:
 
 Video:
 
-[![Prometheus](http://img.youtube.com/vi/ZzbgHvzTshw/0.jpg)](https://www.youtube.com/watch?v=ZzbgHvzTshw)
+[![Prometheus](http://img.youtube.com/vi/6bNQhw1tL-E/0.jpg)](https://www.youtube.com/watch?v=6bNQhw1tL-E)
+
+L'oeuvre Ichor a pour but de défier nos notions du portrait en allant au-delà de la surface dans la vaste complexité de nos 
+corps.
+
+Source: https://ianspriggs.artstation.com/projects/03OR45
+
+Photo:
+
+![Ichor](/BIAN/Medias/femme_veine.png)
+
+Vidéo:
+
+[![Ichor](http://img.youtube.com/vi/ZzbgHvzTshw/0.jpg)](https://www.youtube.com/watch?v=ZzbgHvzTshw)
