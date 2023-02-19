@@ -40,7 +40,7 @@ Photo:
 
 ![Prometheus](/BIAN/Medias/femme_vague.png)
 
-Video:
+Vidéo:
 
 [![Prometheus](http://img.youtube.com/vi/6bNQhw1tL-E/0.jpg)](https://www.youtube.com/watch?v=6bNQhw1tL-E)
 
@@ -56,3 +56,15 @@ Photo:
 Vidéo:
 
 [![Ichor](http://img.youtube.com/vi/ZzbgHvzTshw/0.jpg)](https://www.youtube.com/watch?v=ZzbgHvzTshw)
+
+L'oeuvre Tetrad explore les conceptes de l'identité, multiples et originals.
+
+Source: https://ianspriggs.artstation.com/projects/ykvBr5
+
+Photo:
+
+![Tetrad](/BIAN/Medias/femme_multiple.png)
+
+Vidéo:
+
+[![Ichor](http://img.youtube.com/vi/zWm8T04u7qw/0.jpg)](https://www.youtube.com/watch?v=zWm8T04u7qw)
