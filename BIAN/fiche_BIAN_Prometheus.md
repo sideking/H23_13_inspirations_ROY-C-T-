@@ -15,18 +15,29 @@ Cette expositions était exposé au 2020 rue William.
 Vue des 4 écrans dont l'oeuvre est composé.
 ![vue d'ensemble](/BIAN/Medias/vue_ensemble.png)
 
-### Créer par Maya & Mudbox
+### Créer par Ian Spriggs
 #### Créer en 2021 & 2022
 
 ### Description: 
-L'oeuvre Coeus Démontre une animation qui retire des couche du corps une par une pour nous faire remttre en question notre être.
+L'oeuvre Coeus Démontre une animation qui retire des couche du corps une par une pour nous faire remettre en question notre 
+être.
+
+Source: https://ianspriggs.artstation.com/projects/EaPyo4
 
 Photo:
 
-![homme](/BIAN/Medias/homme.png)
+![Coeus](/BIAN/Medias/homme.png)
 
 Vidéo:
 
-[![homme](http://img.youtube.com/vi/kWeBKWqhHTM/0.jpg)](https://www.youtube.com/watch?v=kWeBKWqhHTM)
+[![Coeus](http://img.youtube.com/vi/kWeBKWqhHTM/0.jpg)](https://www.youtube.com/watch?v=kWeBKWqhHTM)
 
+L'oeuvre Prometheus montre une interpretation contemporaine qui poursuit l'exploration hyperréaliste de l'humain numérique.
 
+Photo:
+
+![Prometheus](/BIAN/Medias/femme_vague.png)
+
+Video:
+
+[![Prometheus](http://img.youtube.com/vi/ZzbgHvzTshw/0.jpg)](https://www.youtube.com/watch?v=ZzbgHvzTshw)
