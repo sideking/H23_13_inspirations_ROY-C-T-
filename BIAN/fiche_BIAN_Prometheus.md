@@ -83,7 +83,7 @@ Cartel:
 
 L'exposition complète est dans une pièce à aire ouverte dans laquelle il y a plusieurs autres oeuvres. Chaque oeuvre est 
 affiché sur des télévision de différente taille à environs 1 mètre d'écart. La distance nécessaire à son exposition est de 
-1.5 mètre pas 7.5 mètre.
+1.5 mètre par 7.5 mètre.
 
 ### Composantes et techniques: 
 
