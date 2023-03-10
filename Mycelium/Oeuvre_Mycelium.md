@@ -99,6 +99,13 @@ Source: [Github du projet](https://github.com/Echomarine/Echomarine/tree/main/do
 
 ### Créateur:
 
+* [Elwin Durand](https://tim-montmorency.com/2023/projets/EDRIA/docs/web/journal_1.html)
+* [Loic Delorme](https://tim-montmorency.com/2023/projets/EDRIA/docs/web/journal_2.html)
+* [Dominic Roberts](https://tim-montmorency.com/2023/projets/EDRIA/docs/web/journal_3.html)
+* [Gabriel Leblanc](https://tim-montmorency.com/2023/projets/EDRIA/docs/web/journal_4.html)
+* [Meryem Berbiche](https://tim-montmorency.com/2023/projets/EDRIA/docs/web/journal_5.html)
+* [Jean-Christophe](https://tim-montmorency.com/2023/projets/EDRIA/docs/web/journal_6.html)
+
 ### Lien avec le thème Mycelium:
 
 # Zodie-Gal
