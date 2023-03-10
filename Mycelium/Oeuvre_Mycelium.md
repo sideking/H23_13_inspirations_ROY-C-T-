@@ -81,7 +81,15 @@ Ce projet décrit le lien humain-nature, plus précisement l'impacte que l'humai
 
 ### Installation prévue :
 
+#### Plantation:
 
+![Schéma](/Mycelium/MEDIAS/Echomarine/echomarine_schema_plantation.png)
+
+(À quoi ressemble l'installation vue de haut)
+
+![Banchement](/Mycelium/MEDIAS/Echomarine/echomarine_schema_banchement.png)
+
+(Une version simplifier de à quoi le bracnhement va ressembler)
 
 # EDRIA
 
