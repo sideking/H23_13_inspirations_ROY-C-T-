@@ -8,7 +8,7 @@ Une projection sur 3 murs nous donne un aperçu de la beauté des fonds marins e
 
 Source: [Site du projet](https://tim-montmorency.com/2023/projets/Echomarine/docs/web/index.html)
 
-### 2. [Entre Fungus](#Entre-Fungus) (lien entre les humanoide et ce que l'on touche)
+### 2. [EDRIA](#EDRIA) (lien entre les humanoide et ce que l'on touche)
 
 #### Résumé du projet :
 
@@ -33,7 +33,7 @@ Source: [Site du projet](https://tim-montmorency.com/2023/projets/EDRIA/docs/web
 
 # Echomarine
 
-# Entre Fungus
+# EDRIA
 
 # Zodie-Gal
 
