@@ -42,6 +42,13 @@ Source: [Site du projet](https://tim-montmorency.com/2023/projets/Boucler-la-bou
 
 # Echomarine
 
+## Créateur:
+
+* [Florence Lapierre](https://tim-montmorency.com/2023/projets/Echomarine/docs/web/journal_1.html)
+* [Natacha Abdallah](https://tim-montmorency.com/2023/projets/Echomarine/docs/web/journal_2.html)
+* [Tracy Gua](https://tim-montmorency.com/2023/projets/Echomarine/docs/web/journal_3.html)
+* [Maria Laura Coronel](https://tim-montmorency.com/2023/projets/Echomarine/docs/web/journal_4.html)
+
 # EDRIA
 
 # Zodie-Gal
