@@ -87,9 +87,13 @@ Ce projet décrit le lien humain-nature, plus précisement l'impacte que l'humai
 
 (À quoi ressemble l'installation vue de haut)
 
+Source: [Github du projet](https://github.com/Echomarine/Echomarine/tree/main/docs/preproduction#Sch%C3%A9mas-ou-plans-techniques)
+
 ![Banchement](/Mycelium/MEDIAS/Echomarine/echomarine_schema_banchement.png)
 
 (Une version simplifier de à quoi le bracnhement va ressembler)
+
+Source: [Github du projet](https://github.com/Echomarine/Echomarine/tree/main/docs/preproduction#Sch%C3%A9mas-ou-plans-techniques)
 
 # EDRIA
 
