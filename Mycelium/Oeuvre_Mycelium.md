@@ -53,6 +53,22 @@ Source: [Site du projet](https://tim-montmorency.com/2023/projets/Boucler-la-bou
 
 Ce projet décrit le lien humain-nature, plus précisement l'impacte que l'humain a sur la nature.
 
+### Installation:
+
+#### Vue d'ensemble:
+
+![mur de droit](/Mycelium/MEDIAS/Echomarine/echomarine_mur_droit.jpeg)
+
+(Mur de droit)
+
+![mur d'avant](/Mycelium/MEDIAS/Echomarine/echomarine_mur_avant.jpeg)
+
+(Mur d'avant)
+
+![mur de gauche](/Mycelium/MEDIAS/Echomarine/echomarine_mur_gauche.jpeg)
+
+(Mur de gauche)
+
 # EDRIA
 
 # Zodie-Gal
