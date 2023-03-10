@@ -58,13 +58,26 @@ Ce projet décrit le lien humain-nature, plus précisement l'impacte que l'humai
 #### Vue d'ensemble:
 
 ![mur de droit](/Mycelium/MEDIAS/Echomarine/echomarine_mur_droit.jpeg)
+
 (Mur de droit)
 
 ![mur d'avant](/Mycelium/MEDIAS/Echomarine/echomarine_mur_avant.jpeg)
+
 (Mur d'avant)
 
 ![mur de gauche](/Mycelium/MEDIAS/Echomarine/echomarine_mur_gauche.jpeg)
+
 (Mur de gauche)
+
+#### Élement electronique:
+
+![ordinateur](/Mycelium/MEDIAS/Echomarine/echomarine_ordi.jpeg)
+
+(Ordinateur où l'on contrôle le projet)
+
+![Projecteur](/Mycelium/MEDIAS/Echomarine/echomarine_projecteur.jpeg)
+
+(Un des trois projecteur nécessaire pour le projet)
 
 # EDRIA
 
