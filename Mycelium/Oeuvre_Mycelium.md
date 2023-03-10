@@ -6,7 +6,7 @@
 
 Une projection sur 3 murs nous donne un aperçu de la beauté des fonds marins et de sa population en menace d’extinction. Animaux interactifs et plantes marines. Echomarine a un but contemplatif et vise à conscientiser.
 
-[Site du projet](https://tim-montmorency.com/2023/projets/Echomarine/docs/web/index.html)
+Source: [Site du projet](https://tim-montmorency.com/2023/projets/Echomarine/docs/web/index.html)
 
 ### 2. Entre Fungus (lien entre les humanoide et ce que l'on touche)
  
@@ -17,3 +17,12 @@ Une projection sur 3 murs nous donne un aperçu de la beauté des fonds marins e
 ### 5. Boucler la boucle (lien entre les racine, connecter deux projet ensemble et les personne)
 
 
+# Echomarine
+
+# Entre Fungus
+
+# Zodie-Gal
+
+# Luma Sol
+
+# Boucler la boucle
