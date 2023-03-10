@@ -102,3 +102,12 @@ Source: [Github du projet](https://github.com/Echomarine/Echomarine/tree/main/do
 # Luma Sol
 
 # Boucler la boucle
+
+## Cours nécessaire pour ce genre de projet:
+
+## Élement technique que je ne connaissait pas:
+
+## Rang des projets selon moi:
+
+## Experience ressentit lors des projets:
+
