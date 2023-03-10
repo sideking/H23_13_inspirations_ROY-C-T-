@@ -42,17 +42,16 @@ Source: [Site du projet](https://tim-montmorency.com/2023/projets/Boucler-la-bou
 
 # Echomarine
 
-## Créateur:
+### Créateur:
 
 * [Florence Lapierre](https://tim-montmorency.com/2023/projets/Echomarine/docs/web/journal_1.html)
 * [Natacha Abdallah](https://tim-montmorency.com/2023/projets/Echomarine/docs/web/journal_2.html)
 * [Tracy Gua](https://tim-montmorency.com/2023/projets/Echomarine/docs/web/journal_3.html)
 * [Maria Laura Coronel](https://tim-montmorency.com/2023/projets/Echomarine/docs/web/journal_4.html)
 
-## Lien avec le thème Mycelium:
+### Lien avec le thème Mycelium:
 
- (lien humain-nature, represente l'impacte entre l'impacte des humain sur la nature)
- Ce projet 
+Ce projet décrit le lien humain-nature, plus précisement l'impacte que l'humain a sur la nature.
 
 # EDRIA
 
