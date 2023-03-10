@@ -53,7 +53,7 @@ Source: [Site du projet](https://tim-montmorency.com/2023/projets/Boucler-la-bou
 
 Ce projet décrit le lien humain-nature, plus précisement l'impacte que l'humain a sur la nature.
 
-### Installation:
+### Installation en cours:
 
 #### Vue d'ensemble:
 
@@ -78,6 +78,10 @@ Ce projet décrit le lien humain-nature, plus précisement l'impacte que l'humai
 ![Projecteur](/Mycelium/MEDIAS/Echomarine/echomarine_projecteur.jpeg)
 
 (Un des trois projecteur nécessaire pour le projet)
+
+### Installation prévue :
+
+
 
 # EDRIA
 
