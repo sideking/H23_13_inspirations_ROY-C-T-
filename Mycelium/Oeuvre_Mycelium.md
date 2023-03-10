@@ -42,6 +42,8 @@ Source: [Site du projet](https://tim-montmorency.com/2023/projets/Boucler-la-bou
 
 ### [Cours nécessaire pour ce genre de projet](#Cours-nécessaire-pour-ce-genre-de-projet:)
 
+[Cours nécessaire pour ce genre de projet](#Cours-nécessaire-pour-ce-genre-de-projet:)
+
 ### [Élement technique que je ne connaissait pas](#Élement-technique-que-je-ne-connaissait-pas:)
 
 ### [Rang des projets selon moi](#Rang-des-projets-selon-moi:)
