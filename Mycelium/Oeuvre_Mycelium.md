@@ -8,19 +8,19 @@ Une projection sur 3 murs nous donne un aperçu de la beauté des fonds marins e
 
 Source: [Site du projet](https://tim-montmorency.com/2023/projets/Echomarine/docs/web/index.html)
 
-### 2. Entre Fungus (lien entre les humanoide et ce que l'on touche)
+### 2. [Entre Fungus](#Entre Fungus) (lien entre les humanoide et ce que l'on touche)
 
 #### Résumé du projet :
  
-### 3. Zodie-Gal (apprendre a vivre avec la nature et les probleme)
+### 3. [Zodie-Gal](#Zodie-Gal) (apprendre a vivre avec la nature et les probleme)
 
 #### Résumé du projet :
  
-### 4. Luma Sol (le mycelium connecte les arbres ensembles et donc le velo est connecter au lumiere similairement)
+### 4. [Luma Sol](Luma Sol) (le mycelium connecte les arbres ensembles et donc le velo est connecter au lumiere similairement)
 
 #### Résumé du projet :
  
-### 5. Boucler la boucle (lien entre les racine, connecter deux projet ensemble et les personne)
+### 5. [Boucler la boucle](#Boucler la boucle) (lien entre les racine, connecter deux projet ensemble et les personne)
 
 #### Résumé du projet :
 
