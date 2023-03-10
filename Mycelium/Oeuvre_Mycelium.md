@@ -52,7 +52,7 @@ Source: [Site du projet](https://tim-montmorency.com/2023/projets/Boucler-la-bou
 ## Lien avec le thème Mycelium:
 
  (lien humain-nature, represente l'impacte entre l'impacte des humain sur la nature)
- Ce 
+ Ce projet 
 
 # EDRIA
 
