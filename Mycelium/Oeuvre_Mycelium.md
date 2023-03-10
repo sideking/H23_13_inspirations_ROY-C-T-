@@ -97,7 +97,15 @@ Source: [Github du projet](https://github.com/Echomarine/Echomarine/tree/main/do
 
 # EDRIA
 
+### Créateur:
+
+### Lien avec le thème Mycelium:
+
 # Zodie-Gal
+
+### Créateur:
+
+### Lien avec le thème Mycelium:
 
 # Luma Sol
 
