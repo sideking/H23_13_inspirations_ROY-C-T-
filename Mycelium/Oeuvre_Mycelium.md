@@ -8,7 +8,7 @@ Une projection sur 3 murs nous donne un aperçu de la beauté des fonds marins e
 
 Source: [Site du projet](https://tim-montmorency.com/2023/projets/Echomarine/docs/web/index.html)
 
-### 2. [EDRIA](#EDRIA) (lien entre les humanoide et ce que l'on touche)
+### 2. [EDRIA](#EDRIA) 
 
 #### Résumé du projet :
 
@@ -106,7 +106,9 @@ Source: [Github du projet](https://github.com/Echomarine/Echomarine/tree/main/do
 * [Meryem Berbiche](https://tim-montmorency.com/2023/projets/EDRIA/docs/web/journal_5.html)
 * [Jean-Christophe](https://tim-montmorency.com/2023/projets/EDRIA/docs/web/journal_6.html)
 
-### Lien avec le thème Mycelium:
+### Lien avec le thème Mycelium: (lien entre les humanoide et ce que l'on touche)
+
+
 
 # Zodie-Gal
 
