@@ -110,6 +110,16 @@ Ce projet parle des liens entre l'humaoïde et ce que l'on touche, comme le lien
 
 ![Haut parleur](/Mycelium/MEDIAS/EDRIA/edria_pillier_vue_3.jpeg) <br> (Pillier principal)
 
+### Installation prévue :
+
+#### Plantation:
+
+![Haut parleur](/Mycelium/MEDIAS/EDRIA/EDRIA_plantation.jpeg) <br> (Vue de la plantation en photo)
+
+![Haut parleur](/Mycelium/MEDIAS/EDRIA/EDRIA_plantation_type_2.jpeg) <br> (Vue de la plantation en dessin)
+
+![Haut parleur](/Mycelium/MEDIAS/EDRIA/EDIRA_plantation_electrique.jpeg) <br> (Vue de la plantation electrique)
+
 # Zodie-Gal
 
 ### Créateur:
