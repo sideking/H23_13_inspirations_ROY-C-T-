@@ -122,8 +122,6 @@ Ce projet parle des liens entre l'humaoïde et ce que l'on touche, comme le lien
 
 Source: [Site du projet](https://tim-montmorency.com/2023/projets/EDRIA/docs/web/index.html)
 
-https://tim-montmorency.com/2023/projets/EDRIA/docs/web/index.html
-
 # Zodie-Gal
 
 ### Créateur:
