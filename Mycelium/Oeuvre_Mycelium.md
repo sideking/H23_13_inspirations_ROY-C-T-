@@ -16,7 +16,7 @@ Traversant un hiver froid et glacial, des explorateurs arrivent en terre inconnu
 
 Source: [Site du projet](https://tim-montmorency.com/2023/projets/EDRIA/docs/web/index.html)
  
-### 3. [Zodie-Gal](#Zodie-Gal) (apprendre a vivre avec la nature et les probleme)
+### 3. [Zodie-Gal](#Zodie-Gal) 
 
 #### Résumé du projet :
 
@@ -92,7 +92,7 @@ Source: [Github du projet](https://github.com/Echomarine/Echomarine/tree/main/do
 * [Meryem Berbiche](https://tim-montmorency.com/2023/projets/EDRIA/docs/web/journal_5.html)
 * [Jean-Christophe](https://tim-montmorency.com/2023/projets/EDRIA/docs/web/journal_6.html)
 
-### Lien avec le thème Mycelium: (lien entre les humanoide et ce que l'on touche)
+### Lien avec le thème Mycelium: 
 
 Ce projet parle des liens entre l'humaoïde et ce que l'on touche, comme le lien entre les arbres créer par le mycelium.
 
@@ -124,9 +124,13 @@ Source: [Site du projet](https://tim-montmorency.com/2023/projets/EDRIA/docs/web
 
 # Zodie-Gal
 
-### Créateur:
+### Créatrice:
 
-### Lien avec le thème Mycelium:
+[Abdanor Yara](https://tim-montmorency.com/2023/projets/Zodie-Gal/docs/web/journal_1.html)
+
+### Lien avec le thème Mycelium: (apprendre a vivre avec la nature et les probleme)
+
+Ce projet parle du lien entre la nature et l'humain et qu'il faut donc apprendre à vivre avec les problèmes de la vie. 
 
 # Luma Sol
 
