@@ -120,6 +120,10 @@ Ce projet parle des liens entre l'humaoïde et ce que l'on touche, comme le lien
 
 ![Haut parleur](/Mycelium/MEDIAS/EDRIA/EDIRA_plantation_electrique.jpeg) <br> (Vue de la plantation electrique)
 
+Source: [Site du projet](https://tim-montmorency.com/2023/projets/EDRIA/docs/web/index.html)
+
+https://tim-montmorency.com/2023/projets/EDRIA/docs/web/index.html
+
 # Zodie-Gal
 
 ### Créateur:
