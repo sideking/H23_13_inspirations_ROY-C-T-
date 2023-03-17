@@ -98,7 +98,17 @@ Ce projet parle des liens entre l'humaoïde et ce que l'on touche, comme le lien
 
 ### Installation en cours:
 
+![Ordi](/Mycelium/MEDIAS/EDRIA/edria_ordi.jpeg) <br> (Oridinateur qui contrôle le projet)
 
+![Haut parleur](/Mycelium/MEDIAS/EDRIA/edria_lumiere_haut_parleur.jpeg) <br> (Haut parleur pour l'ambiance sonore)
+
+#### Vue diverse du pillier pricinpal:
+
+![Haut parleur](/Mycelium/MEDIAS/EDRIA/edria_pillier_vue_1.jpeg) <br> (Pillier principal)
+
+![Haut parleur](/Mycelium/MEDIAS/EDRIA/edria_pillier_vue_2.jpeg) <br> (Pillier principal)
+
+![Haut parleur](/Mycelium/MEDIAS/EDRIA/edria_pillier_vue_3.jpeg) <br> (Pillier principal)
 
 # Zodie-Gal
 
@@ -117,4 +127,3 @@ Ce projet parle des liens entre l'humaoïde et ce que l'on touche, comme le lien
 ## Rang des projets selon moi:
 
 ## Experience ressentit lors des projets:
-
