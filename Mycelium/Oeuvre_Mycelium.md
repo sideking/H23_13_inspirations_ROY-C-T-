@@ -67,23 +67,17 @@ Ce projet décrit le lien humain-nature, plus précisement l'impacte que l'humai
 
 ![ordinateur](/Mycelium/MEDIAS/Echomarine/echomarine_ordi.jpeg) <br> (Ordinateur où l'on contrôle le projet)
 
-![Projecteur](/Mycelium/MEDIAS/Echomarine/echomarine_projecteur.jpeg)
-
-(Un des trois projecteur nécessaire pour le projet)
+![Projecteur](/Mycelium/MEDIAS/Echomarine/echomarine_projecteur.jpeg) <br> (Un des trois projecteur nécessaire pour le projet)
 
 ### Installation prévue :
 
 #### Plantation:
 
-![Schéma](/Mycelium/MEDIAS/Echomarine/echomarine_schema_plantation.png)
-
-(À quoi ressemble l'installation vue de haut)
+![Schéma](/Mycelium/MEDIAS/Echomarine/echomarine_schema_plantation.png) <br> (À quoi ressemble l'installation vue de haut)
 
 Source: [Github du projet](https://github.com/Echomarine/Echomarine/tree/main/docs/preproduction#Sch%C3%A9mas-ou-plans-techniques)
 
-![Banchement](/Mycelium/MEDIAS/Echomarine/echomarine_schema_banchement.png)
-
-(Une version simplifier de à quoi le bracnhement va ressembler)
+![Banchement](/Mycelium/MEDIAS/Echomarine/echomarine_schema_banchement.png) <br> (Une version simplifier de à quoi le bracnhement va ressembler)
 
 Source: [Github du projet](https://github.com/Echomarine/Echomarine/tree/main/docs/preproduction#Sch%C3%A9mas-ou-plans-techniques)
 
@@ -99,6 +93,10 @@ Source: [Github du projet](https://github.com/Echomarine/Echomarine/tree/main/do
 * [Jean-Christophe](https://tim-montmorency.com/2023/projets/EDRIA/docs/web/journal_6.html)
 
 ### Lien avec le thème Mycelium: (lien entre les humanoide et ce que l'on touche)
+
+Ce projet parle des liens entre l'humaoïde et ce que l'on touche, comme le lien entre les arbres créer par le mycelium.
+
+### Installation en cours:
 
 
 
