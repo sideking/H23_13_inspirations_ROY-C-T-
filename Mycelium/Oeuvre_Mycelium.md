@@ -32,7 +32,7 @@ Dans le cadre de ce projet, nous voulons démontrer l'importance pour les humain
 
 Source: [Site du projet](https://tim-montmorency.com/2023/projets/LumaSol/docs/web/index.html)
  
-### 5. [Boucler la boucle](#Boucler-la-boucle) (lien entre les racine, connecter deux projet ensemble et les personne)
+### 5. [Nexum](#Nexum) (lien entre les racine, connecter deux projet ensemble et les personne)
 
 #### Résumé du projet :
 
@@ -57,23 +57,15 @@ Ce projet décrit le lien humain-nature, plus précisement l'impacte que l'humai
 
 #### Vue d'ensemble:
 
-![mur de droit](/Mycelium/MEDIAS/Echomarine/echomarine_mur_droit.jpeg)
+![mur de droit](/Mycelium/MEDIAS/Echomarine/echomarine_mur_droit.jpeg) <br> (Mur de droit)
 
-(Mur de droit)
+![mur d'avant](/Mycelium/MEDIAS/Echomarine/echomarine_mur_avant.jpeg) <br> (Mur d'avant)
 
-![mur d'avant](/Mycelium/MEDIAS/Echomarine/echomarine_mur_avant.jpeg)
-
-(Mur d'avant)
-
-![mur de gauche](/Mycelium/MEDIAS/Echomarine/echomarine_mur_gauche.jpeg)
-
-(Mur de gauche)
+![mur de gauche](/Mycelium/MEDIAS/Echomarine/echomarine_mur_gauche.jpeg) <br> (Mur de gauche)
 
 #### Élement electronique:
 
-![ordinateur](/Mycelium/MEDIAS/Echomarine/echomarine_ordi.jpeg)
-
-(Ordinateur où l'on contrôle le projet)
+![ordinateur](/Mycelium/MEDIAS/Echomarine/echomarine_ordi.jpeg) <br> (Ordinateur où l'on contrôle le projet)
 
 ![Projecteur](/Mycelium/MEDIAS/Echomarine/echomarine_projecteur.jpeg)
 
@@ -118,7 +110,7 @@ Source: [Github du projet](https://github.com/Echomarine/Echomarine/tree/main/do
 
 # Luma Sol
 
-# Boucler la boucle
+# Nexum
 
 ## Cours nécessaire pour ce genre de projet:
 
