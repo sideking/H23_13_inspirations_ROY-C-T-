@@ -227,6 +227,12 @@ Ces deux cours te permettent de créer des vidéo pour tes projets.
 
 ## Élement technique que je ne connaissait pas:
 
+Pour Zodie-Girl, une application a été utilisé: GDevelop 5.
+
+Cette application est utiliser pour créer des jeux et peut-être utilisé par tout le monde, il est Open-Source.
+
+IL est dit que le logiciel est facile à apprendre et facile à utiliser.
+
 ## Rang des projets selon moi:
 
 1. Zodie-Gal
