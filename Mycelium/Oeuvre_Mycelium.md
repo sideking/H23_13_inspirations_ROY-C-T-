@@ -32,7 +32,7 @@ Dans le cadre de ce projet, nous voulons démontrer l'importance pour les humain
 
 Source: [Site du projet](https://tim-montmorency.com/2023/projets/LumaSol/docs/web/index.html)
  
-### 5. [Nexum](#Nexum) (lien entre les racine, connecter deux projet ensemble et les personne)
+### 5. [Nexum](#Nexum) 
 
 #### Résumé du projet :
 
@@ -69,7 +69,7 @@ Ce projet décrit le lien humain-nature, plus précisement l'impacte que l'humai
 
 ![Projecteur](/Mycelium/MEDIAS/Echomarine/echomarine_projecteur.jpeg) <br> (Un des trois projecteur nécessaire pour le projet)
 
-### Installation prévue :
+### Installation prévue:
 
 #### Plantation:
 
@@ -110,7 +110,7 @@ Ce projet parle des liens entre l'humaoïde et ce que l'on touche, comme le lien
 
 ![Haut parleur](/Mycelium/MEDIAS/EDRIA/edria_pillier_vue_3.jpeg) <br> (Pillier principal)
 
-### Installation prévue :
+### Installation prévue:
 
 #### Plantation:
 
@@ -165,7 +165,7 @@ Le lien du vélo au lumière dans l'arbres est similaire au mycelium qui relie l
 
 ![Lumière](/Mycelium/MEDIAS/Luma_Sol/luma_sol_ordi_escalier.jpeg) <br> (Représentatiom de l'instalation des lumières)
 
-### Installation prévue :
+### Installation prévue:
 
 ![Emplacement](/Mycelium/MEDIAS/Luma_Sol/Luma_Sol_emplacement.jpg) <br> (Endroit où le projet sera installé)
 
@@ -180,6 +180,39 @@ Source: [Site du projet](https://github.com/Kawabongaaa/LumaSol/blob/main/docs/p
 Source: [Site du projet](https://github.com/Kawabongaaa/LumaSol/blob/main/docs/preproduction/README.md#Sch%C3%A9mas-ou-plans-techniques)
 
 # Nexum
+
+### Créateur:
+
+* [Sébastien Reilly](https://tim-montmorency.com/2023/projets/Nexum/docs/web/journal_1.html)
+* [Sabrina Laforest](https://tim-montmorency.com/2023/projets/Nexum/docs/web/journal_2.html)
+* [Alexandre Daniel](https://tim-montmorency.com/2023/projets/Nexum/docs/web/journal_3.html)
+* [Maxime Des Lauriers](https://tim-montmorency.com/2023/projets/Nexum/docs/web/journal_4.html)
+
+### Lien avec le thème Mycelium: (lien entre les racine, connecter deux projet ensemble et les personne)
+
+Ce projet agi comme le mycelium qui reli deux arbres en reliant deux projet par un chemin éclairé.
+
+### Installation en cours:
+
+![Ensemble](/Mycelium/MEDIAS/Boucler_la_bloucle/nexum_haut_parleur.jpeg) <br> (Vue des haut parleurs)
+
+![Lumière](/Mycelium/MEDIAS/Boucler_la_bloucle/nexum_lumière.jpeg) <br> (Représentatiom de l'instalation des lumières)
+
+### Composante électronique:
+
+![Fils](/Mycelium/MEDIAS/Boucler_la_bloucle/nexum_fil.jpeg) <br> (Fils utilisé pour connecter les lumières ensemble)
+
+![Fils](/Mycelium/MEDIAS/Boucler_la_bloucle/nexum_ordi_application.jpeg) <br> (Fils utilisé pour connecter les lumières ensemble)
+
+### Installation prévue:
+
+![Plantation](/Mycelium/MEDIAS/Boucler_la_bloucle/Nexum_plantation.png) <br> (Schéma de plantation)
+
+Source: [Site du projet](https://tim-montmorency.com/2023/projets/Nexum/docs/web/preproduction.html)
+
+![Branchement](/Mycelium/MEDIAS/Boucler_la_bloucle/Nexum_branchement.png) <br> (Schéma du branchement)
+
+Source: [Site du projet](https://tim-montmorency.com/2023/projets/Nexum/docs/web/preproduction.html)
 
 ## Cours nécessaire pour ce genre de projet:
 
