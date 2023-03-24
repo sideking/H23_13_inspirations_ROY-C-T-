@@ -1,6 +1,8 @@
 # Exposition: Mycelium
 
-![banière elektra](/BIAN/Medias/entree_elektra.png)
+![Image exposition](/Mycelium/MEDIAS/Mycelium/Mycelium.PNG)
+
+Source: [site de l'école](https://www.cmontmorency.qc.ca/invitation-a-une-experience-multimedia-interactive/)
 
 Cette expositions était exposé au 475 Bd de l'Avenir
 
