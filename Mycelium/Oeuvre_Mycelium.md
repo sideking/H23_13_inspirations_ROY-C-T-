@@ -231,7 +231,7 @@ Pour Zodie-Girl, une application a été utilisé: GDevelop 5.
 
 Cette application est utiliser pour créer des jeux et peut-être utilisé par tout le monde, il est Open-Source.
 
-IL est dit que le logiciel est facile à apprendre et facile à utiliser.
+Il est dit que le logiciel est facile à apprendre et facile à utiliser.
 
 ## Rang des projets selon moi:
 
