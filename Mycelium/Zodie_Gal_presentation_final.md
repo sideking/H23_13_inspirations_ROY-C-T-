@@ -10,16 +10,18 @@ Cette expositions était exposé au 475 Bd de l'Avenir
 
 ## Nom de l'oeuvre: ZODIE GAL
 
-Vue des 4 écrans dont l'oeuvre est composé.
 
 
-### Créer par Ian Spriggs
-#### Créer en 2021 & 2022
+
+### Créer par Abdanor Yara
+#### Créer en 2023
 
 ### Description: 
 Un jeu d'aventure qui se base sur la periode de puberte d'une jeune fille dans ses peurs d'adolescantes.
 
 Zodie Gal projet est un jeu web de touche et aventure où il faut aider une jeune fille à trouver des moyens de tuer des monstres Zodiac en cliquant sur le bon objet d’une image. Il y a 12 niveaux au total(baser sur le zodiac). Chaque niveaux contient 2 images: une image pour trouver le bon objet à utiliser contre le Zodiac et une image qui montre la victoire au joueur face au Zodiac.
+
+Source: [Site du projet](https://tim-montmorency.com/2023/projets/Zodie-Gal/docs/web/index.html)
 
 ### galerie photo:
 
@@ -54,3 +56,4 @@ Zodie Gal projet est un jeu web de touche et aventure où il faut aider une jeun
 
 ## Références:
 
+[Site du projet](https://tim-montmorency.com/2023/projets/Zodie-Gal/docs/web/index.html)
