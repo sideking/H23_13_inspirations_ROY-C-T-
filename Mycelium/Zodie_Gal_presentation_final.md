@@ -50,11 +50,13 @@ Source: [Site du projet](https://tim-montmorency.com/2023/projets/Zodie-Gal/docs
 
 ## Aspect plaisant:
 
-
+Selon moi, la qualité du dessins et le style qui donne une impression de mouvement est très impressionnant. La noirceur de la salle dans laquelle le projet se trouvait aidait l'immersions pour le jeu.
 
 ## Aspect à ne pas retenir:
 
+Je trouve que la créatrice du projet aurait du prendre plus de temps pour colorier tous les images et ne pas finir come l'image ci-dessous.
 
+PHOTO HERE TROLOLOL
 
 ## Références:
 
