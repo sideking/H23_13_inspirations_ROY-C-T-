@@ -216,8 +216,26 @@ Source: [Site du projet](https://tim-montmorency.com/2023/projets/Nexum/docs/web
 
 ## Cours nécessaire pour ce genre de projet:
 
+#### Tous les cours d' intégration Web:
+Les cours d'intégration web montre les base de la création d'un site
+
+#### Animation 2d/3d:
+Les cours d'animation 2d/3d te permettent de créer des animation pour tes projets.
+
+#### Conception vidéo et Traitement audiovisuel:
+Ces deux cours te permettent de créer des vidéo pour tes projets.
+
 ## Élement technique que je ne connaissait pas:
 
 ## Rang des projets selon moi:
 
+1. Zodie-Gal
+2. Echomarine
+3. Luma Sol
+4. Edria
+5. Nexum
+
 ## Experience ressentit lors des projets:
+
+La plupart des projet ne m'ont pas fait ressentir une emotion particuliaire.
+Le projet Zodie-Girl par contre était intéressant, il était drôle et les déssins était d'un style unique. mais surtout c'est parce que je compte travailler dans le domaine du jeu vidéo.  
