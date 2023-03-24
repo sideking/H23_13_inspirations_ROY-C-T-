@@ -24,7 +24,7 @@ Zodiadie Gal projet est un jeu web de touche et aventure où il faut aider une j
 
 Source: [Site du projet](https://tim-montmorency.com/2023/projets/Zodie-Gal/docs/web/index.html)
  
-### 4. [Luma Sol](#Luma-Sol) (le mycelium connecte les arbres ensembles et donc le velo est connecter au lumiere similairement)
+### 4. [Luma Sol](#Luma-Sol) 
 
 #### Résumé du projet :
 
@@ -114,11 +114,15 @@ Ce projet parle des liens entre l'humaoïde et ce que l'on touche, comme le lien
 
 #### Plantation:
 
-![Haut parleur](/Mycelium/MEDIAS/EDRIA/EDRIA_plantation.jpeg) <br> (Vue de la plantation en photo)
+![Schema](/Mycelium/MEDIAS/EDRIA/EDRIA_plantation.jpeg) <br> (Vue de la plantation en photo)
 
-![Haut parleur](/Mycelium/MEDIAS/EDRIA/EDRIA_plantation_type_2.jpeg) <br> (Vue de la plantation en dessin)
+Source: [Site du projet](https://tim-montmorency.com/2023/projets/EDRIA/docs/web/index.html)
 
-![Haut parleur](/Mycelium/MEDIAS/EDRIA/EDIRA_plantation_electrique.jpeg) <br> (Vue de la plantation electrique)
+![Schema](/Mycelium/MEDIAS/EDRIA/EDRIA_plantation_type_2.jpeg) <br> (Vue de la plantation en dessin)
+
+Source: [Site du projet](https://tim-montmorency.com/2023/projets/EDRIA/docs/web/index.html)
+
+![Schema](/Mycelium/MEDIAS/EDRIA/EDIRA_plantation_electrique.jpeg) <br> (Vue de la plantation electrique)
 
 Source: [Site du projet](https://tim-montmorency.com/2023/projets/EDRIA/docs/web/index.html)
 
@@ -132,7 +136,48 @@ Source: [Site du projet](https://tim-montmorency.com/2023/projets/EDRIA/docs/web
 
 Ce projet parle du lien entre la nature et l'humain et qu'il faut donc apprendre à vivre avec les problèmes de la vie. 
 
+### Installation en cours:
+
+![Ordi](/Mycelium/MEDIAS/Zodie-Gal/zodie_gal_ordie_art.jpeg) <br> (Ordinateur)
+
+![Ordi](/Mycelium/MEDIAS/Zodie-Gal/zodie_gal_haut_parleur.jpeg) <br> (Un des deux haut parleurs installé à côté de l'ordinateur)
+
+### Art:
+
+![Ordi](/Mycelium/MEDIAS/Zodie-Gal/zodie_gal_art.jpeg) <br> (À quoi ressemble les dessins du jeu)
+
 # Luma Sol
+
+### Créateur:
+
+* [Éloïse Gagné](https://tim-montmorency.com/2023/projets/LumaSol/docs/web/journal_1.html)
+* [Skayla Stimphil](https://tim-montmorency.com/2023/projets/LumaSol/docs/web/journal_2.html)
+* [Michaël Simard](https://tim-montmorency.com/2023/projets/LumaSol/docs/web/journal_3.html)
+* [Pénélope Morrisson](https://tim-montmorency.com/2023/projets/LumaSol/docs/web/journal_4.html)
+
+### Lien avec le thème Mycelium: 
+
+Le lien du vélo au lumière dans l'arbres est similaire au mycelium qui relie les arbres entre eux.
+
+### Installation en cours:
+
+![Ensemble](/Mycelium/MEDIAS/Luma_Sol/luma_sol_ vue_ensemble.jpeg) <br> (Vue d'ensemble du projet en cours)
+
+![Lumière](/Mycelium/MEDIAS/Luma_Sol/luma_sol_ordi_escalier.jpeg) <br> (Représentatiom de l'instalation des lumières)
+
+### Installation prévue :
+
+![Emplacement](/Mycelium/MEDIAS/Luma_Sol/Luma_Sol_emplacement.jpg) <br> (Endroit où le projet sera installé)
+
+Source: [Site du projet](https://github.com/Kawabongaaa/LumaSol/blob/main/docs/preproduction/README.md#Sch%C3%A9mas-ou-plans-techniques)
+
+![Installation](/Mycelium/MEDIAS/Luma_Sol/Luma_Sol_plan_3d.png) <br> (Vue de l'installation en 3d)
+
+Source: [Site du projet](https://github.com/Kawabongaaa/LumaSol/blob/main/docs/preproduction/README.md#Sch%C3%A9mas-ou-plans-techniques)
+
+![Branchement](/Mycelium/MEDIAS/Luma_Sol/Luma_Sol_branchement.png) <br> (Schéma de l'installation électrique)
+
+Source: [Site du projet](https://github.com/Kawabongaaa/LumaSol/blob/main/docs/preproduction/README.md#Sch%C3%A9mas-ou-plans-techniques)
 
 # Nexum
 
