@@ -30,7 +30,14 @@ Source: [Site du projet](https://tim-montmorency.com/2023/projets/Zodie-Gal/docs
 
 ### galerie photo:
 
+![entrée elektra](/Mycelium/MEDIAS/Zodie_Gal_fini/Zodie_Gal_art.png)
 
+![entrée elektra](/Mycelium/MEDIAS/Zodie_Gal_fini/Zodie_Gal_art2.png)
+
+![entrée elektra](/Mycelium/MEDIAS/Zodie_Gal_fini/Zodie_Gal_art3.png)
+
+![entrée elektra](/Mycelium/MEDIAS/Zodie_Gal_fini/Zodie_Gal_art4_RAD.png) <br>
+(Photo de Rafaël Angon Dubé)
 
 ### Type d'installation: Intéractive 
 
