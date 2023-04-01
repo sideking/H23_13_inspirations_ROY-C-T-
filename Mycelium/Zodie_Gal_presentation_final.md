@@ -41,6 +41,9 @@ Source: [Site du projet](https://tim-montmorency.com/2023/projets/Zodie-Gal/docs
 
 ### Type d'installation: Intéractive 
 
+Ce projet est un jeu vidéo.
+![entrée elektra](/Mycelium/MEDIAS/Zodie_Gal_fini/Zodie_Gal_vue_ensemble_KTS.png) <br>
+(photo de Khali Tia Sing)
 
 ### Mise en espace:
 
@@ -48,7 +51,17 @@ Source: [Site du projet](https://tim-montmorency.com/2023/projets/Zodie-Gal/docs
 
 ### Composantes et techniques: 
 
+Cette oeuvre nécessite une lampe:
 
+![entrée elektra](/Mycelium/MEDIAS/Zodie_Gal_fini/Zodie_Gal_lampe_KTS.png) <br>
+(photo de Khali Tia Sing)
+
+et une feuille d'avertissement:
+![entrée elektra](/Mycelium/MEDIAS/Zodie_Gal_fini/Zodie_Gal_avertissement.png)
+
+tout les autres composante seront tous fourni par le lieu d'exposition.
+
+Les techniques et logiciels utilisé sont: CLIP PAINT STUDIO pour le dessin et GDEVELOP 5 pour la partie jeu vidéo.
 
 ### Éléments nécessaires à la mise en exposition:
 
