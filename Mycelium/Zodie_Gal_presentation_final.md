@@ -5,6 +5,8 @@
 Source: [site de l'école](https://www.cmontmorency.qc.ca/invitation-a-une-experience-multimedia-interactive/)
 
 Cette expositions était exposé au 475 Bd de l'Avenir
+![entrée elektra](/Mycelium/MEDIAS/Zodie_Gal_fini/Zodie_Gal_presence_KTS.png) <br>
+(photo de Khali Tia Sing)
 
 ### Type d'exposition: exposition de type temporaire et intérieur.
 
@@ -12,8 +14,9 @@ Cette expositions était exposé au 475 Bd de l'Avenir
 
 ## Nom de l'oeuvre: ZODIE GAL
 
-
-
+Vue D'ensemble de l'oeuvre: <br>
+![entrée elektra](/Mycelium/MEDIAS/Zodie_Gal_fini/Zodie_Gal_vue_ensemble_KTS.png) <br>
+(photo de Khali Tia Sing)
 
 ### Créer par Abdanor Yara
 #### Créer en 2023
