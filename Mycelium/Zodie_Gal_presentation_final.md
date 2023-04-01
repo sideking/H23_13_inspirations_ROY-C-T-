@@ -82,7 +82,7 @@ Un bureau, un écran, un ordinateur, un clavier, une souris et deux haut-parleur
 
 ### Expérience vécue:
 
-
+La position pour pouvoir intéragir avec cette oeuvr eest de se tenir devant le bureau, debout ou assis pour pouvoir jouer comfortablement. Les visiteur peuvent se joindre a l'exposition a tout moment car l'oeuvre est créer pour que l'on peut rejouer les niveaux déjà fini par les autres. Il est à noter que certaines scènes peuvent être sanglante et donc peuvent déranger certains visiteur.
 
 ## Aspect plaisant:
 
@@ -90,9 +90,9 @@ Selon moi, la qualité du dessins et le style qui donne une impression de mouvem
 
 ## Aspect à ne pas retenir:
 
-Je trouve que la créatrice du projet aurait du prendre plus de temps pour colorier tous les images et ne pas finir come l'image ci-dessous.
-
-PHOTO HERE TROLOLOL
+Je trouve que la créatrice du projet aurait du prendre plus de temps pour colorier tous les images et ne pas finir come l'image ci-dessous. <br>
+![entrée elektra](/Mycelium/MEDIAS/Zodie_Gal_fini/Zodie_Gal_sans_couleur_RAD.png) <br>
+(Photo de Rafaël Angon Dubé)
 
 ## Références:
 
