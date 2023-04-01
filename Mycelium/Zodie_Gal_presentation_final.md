@@ -41,22 +41,25 @@ Source: [Site du projet](https://tim-montmorency.com/2023/projets/Zodie-Gal/docs
 
 ### Type d'installation: Intéractive 
 
-Ce projet est un jeu vidéo.
+Ce projet est un jeu vidéo. <br>
 ![entrée elektra](/Mycelium/MEDIAS/Zodie_Gal_fini/Zodie_Gal_vue_ensemble_KTS.png) <br>
 (photo de Khali Tia Sing)
 
 ### Mise en espace:
 
+![entrée elektra](/Mycelium/MEDIAS/Zodie_Gal_fini/Zodie-Gal_croquis.png)
 
+L'exposition était au bout d'un couloir d'environs 7 mètre par 1.5 mètre. La lumière au début du couloir servait a éclairer et a lampe antique était pour créer une immersion plus grande. les haut-parleurs sont placé derrière le bureau pour ne pas prendre trop de place et aussi car ils sont moins visible comme cela.
 
 ### Composantes et techniques: 
 
-Cette oeuvre nécessite une lampe:
+Le composante de cette oeuvre qui nécessite de voyager sont:
 
+une lampe: <br>
 ![entrée elektra](/Mycelium/MEDIAS/Zodie_Gal_fini/Zodie_Gal_lampe_KTS.png) <br>
 (photo de Khali Tia Sing)
 
-et une feuille d'avertissement:
+et une feuille d'avertissement: <br>
 ![entrée elektra](/Mycelium/MEDIAS/Zodie_Gal_fini/Zodie_Gal_avertissement.png)
 
 tout les autres composante seront tous fourni par le lieu d'exposition.
@@ -65,7 +68,17 @@ Les techniques et logiciels utilisé sont: CLIP PAINT STUDIO pour le dessin et G
 
 ### Éléments nécessaires à la mise en exposition:
 
+Des fils électrique: <br>
+![entrée elektra](/Mycelium/MEDIAS/Zodie_Gal_fini/Zodie_Gal_cablage_KTS.png) <br>
+(photo de Khali Tia Sing)
 
+Un projecteur de lumière: <br>
+![entrée elektra](/Mycelium/MEDIAS/Zodie_Gal_fini/Zodie_Gal_lumiere_KTS.png) <br>
+(photo de Khali Tia Sing)
+
+Un bureau, un écran, un ordinateur, un clavier, une souris et deux haut-parleurs: <br>
+![entrée elektra](/Mycelium/MEDIAS/Zodie_Gal_fini/Zodie_Gal_vue_ensemble_KTS.png) <br>
+(photo de Khali Tia Sing)
 
 ### Expérience vécue:
 
