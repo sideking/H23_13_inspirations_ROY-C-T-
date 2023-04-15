@@ -3,79 +3,50 @@
 ![banière Hockey](/centre_sciences/media/hockey/HOCKEY_nom_exposition.jpg)
 
 Cette expositions était exposé au 2 Rue de la Commune Ouest
-![entrée centre des sciences](/centre_sciences/media/centre_des_sciences_entre.png)
+![entrée centre des sciences](/centre_sciences/media/centre_des_sciences_entre.png) <br>
 (photo de Karine Lecuyer)
 
-### Type d'exposition: exposition de type permanent et intérieur.
+### Type d'exposition: exposition de type temporaire et intérieur.
 
 ### Date de visite: 12 Avril 2023
 
-## Nom de l'oeuvre: Innovation Tecnologique
+## Nom de l'oeuvre: Innovations Tecnologiques
 
-Vue des 4 écrans dont l'oeuvre est composé.
-![vue d'ensemble](/BIAN/Medias/vue_ensemble.png)
+Vue de la vitrine où est placé l'oeuvre. 
+![vue d'ensemble](/centre_sciences/media/hockey/HOCKEY_vue_ensemble.jpg)
 
-### Créer par Ian Spriggs
-#### Créer en 2021 & 2022
+### Créer par Flying Fish
+#### Créer en 2023
 
 ### Description: 
-L'oeuvre Coeus Démontre une animation qui retire des couche du corps une par une pour nous faire remettre en question notre 
-être.
+L'oeuvre Innovations Technologiques nous montre le passé du hockey et les technologies qui y était utilisé
 
-Source: https://ianspriggs.artstation.com/projects/EaPyo4
+Intérieur de la vitrine:
 
-Photo:
+![Vieux but de hockey](/centre_sciences/media/hockey/HOCKEY_but.jpg) <br>
+(Vieux but de hockey)
 
-![Coeus](/BIAN/Medias/homme.png)
+![Vielle caméra](/centre_sciences/media/hockey/HOCKEY_camera.jpg) <br>
+(Vielle caméra)
 
-Vidéo:
+![Vieux casque de hockey](/centre_sciences/media/hockey/HOCKEY_casque.jpg) <br>
+(Vieux casque de hockey)
 
-[![Coeus](http://img.youtube.com/vi/kWeBKWqhHTM/0.jpg)](https://www.youtube.com/watch?v=kWeBKWqhHTM)
+![Vieux habit de hockey](/centre_sciences/media/hockey/HOCKEY_habit.jpg) <br>
+(Vieux habit de hockey)
 
-L'oeuvre Prometheus montre une interpretation contemporaine qui poursuit l'exploration hyperréaliste de l'humain numérique.
+![Vieux patin de hockey](/centre_sciences/media/hockey/HOCKEY_patin.jpg) <br>
+(Vieux patin de hockey)
 
-Source: https://ianspriggs.artstation.com/projects/xYeZ51
+![Vieux plancher pour jouer au hockey](/centre_sciences/media/hockey/HOCKEY_plancher.jpg) <br>
+(Vieux plancher pour jouer au hockey)
 
-Photo:
-
-![Prometheus](/BIAN/Medias/femme_vague.png)
-
-Vidéo:
-
-[![Prometheus](http://img.youtube.com/vi/6bNQhw1tL-E/0.jpg)](https://www.youtube.com/watch?v=6bNQhw1tL-E)
-
-L'oeuvre Ichor a pour but de défier nos notions du portrait en allant au-delà de la surface dans la vaste complexité de nos 
-corps.
-
-Source: https://ianspriggs.artstation.com/projects/03OR45
-
-Photo:
-
-![Ichor](/BIAN/Medias/femme_veine.png)
-
-Vidéo:
-
-[![Ichor](http://img.youtube.com/vi/ZzbgHvzTshw/0.jpg)](https://www.youtube.com/watch?v=ZzbgHvzTshw)
-
-L'oeuvre Tetrad explore les conceptes de l'identité, multiples et originals.
-
-Source: https://ianspriggs.artstation.com/projects/ykvBr5
-
-Photo:
-
-![Tetrad](/BIAN/Medias/femme_multiple.png)
-
-Vidéo:
-
-[![Tetrad](http://img.youtube.com/vi/zWm8T04u7qw/0.jpg)](https://www.youtube.com/watch?v=zWm8T04u7qw)
-
-Cartel:
-
-![Cartel](/BIAN/Medias/cartel.png)
+![Télévision pour montrer des vidéos](/centre_sciences/media/hockey/HOCKEY_television.jpg) <br>
+(Télévision pour montrer des vidéos)
 
 ### Type d'installation: Contemplative 
 
-![vue d'ensemble](/BIAN/Medias/vue_ensemble.png)
+![vue d'ensemble](/centre_sciences/media/hockey/HOCKEY_vue_ensemble.jpg)
 
 ### Mise en espace:
 
