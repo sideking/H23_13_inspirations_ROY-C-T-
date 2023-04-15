@@ -44,17 +44,36 @@ Intérieur de la vitrine:
 ![Télévision pour montrer des vidéos](/centre_sciences/media/hockey/HOCKEY_television.jpg) <br>
 (Télévision pour montrer des vidéos)
 
+![Panneau d'information](/centre_sciences/media/hockey/HOCKEY_panneau_information.jpg) <br>
+(Panneau d'information)
+
+![Panneau d'information](/centre_sciences/media/hockey/HOCKEY_panneau_nom.jpg) <br>
+(Panneau expliquant d'où les vidéos viennent)
+
+Extérieur de la vitrine:
+
+![Table d'information](/centre_sciences/media/hockey/HOCKEY_table_information.jpg) <br>
+(Table d'information)
+
+![Fauteuil](/centre_sciences/media/hockey/HOCKEY_fauteuil.jpg) <br>
+(Fauteuil)
+
+![Divan](/centre_sciences/media/hockey/HOCKEY_divan.jpg) <br>
+(Divan)
+
 ### Type d'installation: Contemplative 
 
 ![vue d'ensemble](/centre_sciences/media/hockey/HOCKEY_vue_ensemble.jpg)
 
 ### Mise en espace:
 
-![Croquis](/BIAN/Medias/CROQUIS.png)
 
-L'exposition complète est dans une pièce à aire ouverte dans laquelle il y a plusieurs autres oeuvres. Chaque oeuvre est 
-affiché sur des télévision de différente taille à environs 1 mètre d'écart. La distance nécessaire à son exposition est de 
-1.5 mètre par 7.5 mètre.
+
+
+
+
+
+
 
 ### Composantes et techniques: 
 
