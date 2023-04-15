@@ -21,7 +21,7 @@ Vue de la vitrine où est placé l'oeuvre.
 ### Description: 
 L'oeuvre Innovations Technologiques nous montre le passé du hockey et les technologies qui y était utilisé
 
-Intérieur de la vitrine:
+#### Intérieur de la vitrine:
 
 ![Vieux but de hockey](/centre_sciences/media/hockey/HOCKEY_but.jpg) <br>
 (Vieux but de hockey)
@@ -50,7 +50,7 @@ Intérieur de la vitrine:
 ![Panneau d'information](/centre_sciences/media/hockey/HOCKEY_panneau_nom.jpg) <br>
 (Panneau expliquant d'où les vidéos viennent)
 
-Extérieur de la vitrine:
+#### Extérieur de la vitrine:
 
 ![Table d'information](/centre_sciences/media/hockey/HOCKEY_table_information.jpg) <br>
 (Table d'information)
@@ -77,9 +77,10 @@ Extérieur de la vitrine:
 
 ### Composantes et techniques: 
 
-Cette oeuvre ne nécessite pas de composante pour voyager car il ne sagit qu'une vidéo exposé sur une télévision.
-Les techniques et logiciels utilisé pour créer cette oeuvre sont: Maya et Mudbox pour la modelisation et la texturation,  
-V-RAY RTX-CPU pour le rendu et Davinci pour la composition.
+# CONTINUE HERE!!!!!!!
+
+
+
 
 ### Éléments nécessaires à la mise en exposition:
 
