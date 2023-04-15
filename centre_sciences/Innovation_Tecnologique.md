@@ -1,16 +1,16 @@
-# Exposition: Elektra Mutation
+# Exposition: Hockey
 
-![banière elektra](/BIAN/Medias/entree_elektra.png)
+![banière Hockey](/centre_sciences/media/hockey/HOCKEY_nom_exposition.jpg)
 
-Cette expositions était exposé au 2020 rue William.
-![entrée elektra](/BIAN/Medias/entree_edifice.png)
-(photo de Khali Tia Sing)
+Cette expositions était exposé au 2 Rue de la Commune Ouest
+![entrée centre des sciences](/centre_sciences/media/centre_des_sciences_entre.png)
+(photo de Karine Lecuyer)
 
-### Type d'exposition: exposition de type temporaire et intérieur.
+### Type d'exposition: exposition de type permanent et intérieur.
 
-### Date de visite: 3 Février 2023
+### Date de visite: 12 Avril 2023
 
-## Nom de l'oeuvre: Coeus, Prometheus, Ichor & Tetrad
+## Nom de l'oeuvre: Innovation Tecnologique
 
 Vue des 4 écrans dont l'oeuvre est composé.
 ![vue d'ensemble](/BIAN/Medias/vue_ensemble.png)
