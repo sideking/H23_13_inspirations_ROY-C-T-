@@ -77,24 +77,47 @@ L'oeuvre Innovations Technologiques nous montre le passé du hockey et les techn
 
 ### Composantes et techniques: 
 
-# CONTINUE HERE!!!!!!!
+Les composants nécessaire a cette exposition sont:
+  * Les patins
+  * Le casque de hockey
+  * L'habit de hockey
+  * La télévision
+  * Le but
+  * La caméra
+  * La plaque (Le plancher)
+  * Les 2 panneau d'informations
+  * Le divan
+  * Le fauteuil
+  * La table d'information
+  * Les plateforme sur lesquels sont exposé les objets
 
-
-
+Les techniques utilisé sont: 
+  * La programmation
+  * Autres
 
 ### Éléments nécessaires à la mise en exposition:
 
 Les éléments nécessaires pour cette exposition sont:
 
-4 télévisions:
+Des lumières:
 
-![vue d'ensemble](/BIAN/Medias/vue_ensemble.png)
+![Lumière](/centre_sciences/media/hockey/HOCKEY_lumiere_droite.jpg) <br>
+(Lumière accrocher au plafond)
 
-Des caches-fil sous les 4 télévisions:
+![Lumière](/centre_sciences/media/hockey/HOCKEY_lumiere_gauche.jpg) <br>
+(Lumière accrocher au plafond)
 
-![Cache-fil](/BIAN/Medias/cache_fil.png)
+Des supports plafonniers:
 
-Des support muraux pour les télévision.
+![Support plafond](/centre_sciences/media/hockey/HOCKEY_support.jpg) <br>
+(Un support au plafond)
+
+Des vitres pour la vitrine:
+
+![Vitre](/centre_sciences/media/hockey/HOCKEY_vue_ensemble.jpg) <br>
+(Vitre)
+
+Il faudra aussi un endroit disponible pour pouvoir placer cette exposition et des fils.
 
 ### Expérience vécue:
 
@@ -118,5 +141,3 @@ Il en vas de même pour les trois autres oeuvres. J'aurais aimé qu'il soit all�
 représenté.
 
 ## Références:
-
-https://ianspriggs.artstation.com/
