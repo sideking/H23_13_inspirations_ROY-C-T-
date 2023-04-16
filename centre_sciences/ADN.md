@@ -69,39 +69,21 @@ Une des techniques utilisé est la programmation pour que les scanneur détecte 
 
 ### Éléments nécessaires à la mise en exposition:
 
-Les éléments nécessaires pour cette exposition sont:
-
-4 télévisions:
-
-![vue d'ensemble](/BIAN/Medias/vue_ensemble.png)
-
-Des caches-fil sous les 4 télévisions:
-
-![Cache-fil](/BIAN/Medias/cache_fil.png)
-
-Des support muraux pour les télévision.
+Il est nécessaire d'avoir de l'espace pour utiliser cet exposition et des fils pour l'alimenter.
 
 ### Expérience vécue:
 
-La position optimal pour les visiteurs est de se tenir à un demi-mètre de distance devant une des télévisions. Les vidéos 
-joue en tout temps mais ils n'ont ni début ni fin et donc peuvent être regardé n'importe quand. 
+l'emplacement optimal pour pouvoir utiliser cet oeuvre est d'être juste a côté du meuble pour pouvoir déplacer les plaques et pouvoir lire les informations.
+
 
 ## Aspect plaisant:
 
-Ce qu'il m'a plu est la dédication visible par le créateur des 4 oeuvres. Le temps passé sur ces portraits ont permit de 
-créer ce chef d'oeuvre artistique d'une qualité extraordinaire qui nous permets même de voir les pores de la peau des 
-personnages. Il montre aussi une anatomie humaine qui est réalistique ce qui parle des recherches intensives qu'il a dû 
-faire.
+Ce qu'il m'a plu est la partie jeux de l'oeuvre ou tu dois chercher l'emplacement exact des plaques et l'information obtenu par la suite qui est très niche.
 
 ## Aspect à ne pas retenir:
 
-Je trouve que l'artiste aurait du démontrer plus clairement l'idée qu'il y a lors de la création. par exemple: je trouve que l'oeuvre Tetrad ( photo ci-dessous) est très bien faite, même si elle n'est pas dans mes goûts, mais je ne sais pas vraiment ce que je regarde.
+Bien que j'aime l'aspect déplacement des plaque, je trouve qu'il est dommage qu'il y a une possiblilité de tromper le scanneur pour que ça marche quand même si la plaque est à l'envers:
 
-![Tetrad](/BIAN/Medias/femme_multiple.png)
+![Tetrad](/centre_sciences/media/humain/ADN_plaque_defaut.jpg)
 
-Il en vas de même pour les trois autres oeuvres. J'aurais aimé qu'il soit allé plus loins et plus en détail sur les sujets 
-représenté.
-
-## Références:
-
-https://ianspriggs.artstation.com/
+Il en vas de même pour les trois autres plaques qui agissent de la même façons.
