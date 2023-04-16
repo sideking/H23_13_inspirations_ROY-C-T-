@@ -26,7 +26,7 @@ Photo:
 
 Vidéo:
 
-[![Coeus](http://img.youtube.com/vi/kWeBKWqhHTM/0.jpg)](https://youtu.be/96q8DF_y0PM)
+[![Coeus](http://img.youtube.com/vi/96q8DF_y0PM/0.jpg)](https://youtu.be/96q8DF_y0PM)
 
 L'oeuvre Prometheus montre une interpretation contemporaine qui poursuit l'exploration hyperréaliste de l'humain numérique.
 
