@@ -70,8 +70,7 @@ L'oeuvre Innovations Technologiques nous montre le passé du hockey et les techn
 
 
 
-nbgfnfgfhjgf
-
+# DESSINER LE CROQUIS ET LE PLACER ICI!!!!!!
 
 
 ### Composantes et techniques: 
