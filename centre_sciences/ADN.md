@@ -1,28 +1,24 @@
-# Exposition: Elektra Mutation
+# Exposition: Hockey
 
-![banière elektra](/BIAN/Medias/entree_elektra.png)
+![banière Humain](/centre_sciences/media/humain/ADN_nom_exposition.jpg)
 
-Cette expositions était exposé au 2020 rue William.
-![entrée elektra](/BIAN/Medias/entree_edifice.png)
-(photo de Khali Tia Sing)
+Cette expositions était exposé au 2 Rue de la Commune Ouest
+![entrée centre des sciences](/centre_sciences/media/centre_des_sciences_entre.png) <br>
+(photo de Karine Lecuyer)
 
-### Type d'exposition: exposition de type temporaire et intérieur.
+### Type d'exposition: exposition de type permanente et intérieur.
 
-### Date de visite: 3 Février 2023
+### Date de visite: 12 Avril 2023
 
-## Nom de l'oeuvre: Coeus, Prometheus, Ichor & Tetrad
+## Nom de l'oeuvre: ADN
 
-Vue des 4 écrans dont l'oeuvre est composé.
-![vue d'ensemble](/BIAN/Medias/vue_ensemble.png)
+Vue d'ensemble de l'exposition:
+![vue d'ensemble](/centre_sciences/media/humain/ADN_vue_ensemble_vide.jpg) 
 
-### Créer par Ian Spriggs
-#### Créer en 2021 & 2022
+![vue d'ensemble](/centre_sciences/media/humain/ADN_vue_ensemble_plein.jpg) 
 
 ### Description: 
-L'oeuvre Coeus Démontre une animation qui retire des couche du corps une par une pour nous faire remettre en question notre 
-être.
-
-Source: https://ianspriggs.artstation.com/projects/EaPyo4
+L'oeuvre ADN montre la ressemblance entre l'ADN humain et celles des autres animaux tout en offrant un jeu de cehrche et trouve pour placer les plaques.
 
 Photo:
 
@@ -30,7 +26,7 @@ Photo:
 
 Vidéo:
 
-[![Coeus](http://img.youtube.com/vi/kWeBKWqhHTM/0.jpg)](https://www.youtube.com/watch?v=kWeBKWqhHTM)
+[![Coeus](http://img.youtube.com/vi/kWeBKWqhHTM/0.jpg)](https://youtu.be/w2OJr5CwbaY)
 
 L'oeuvre Prometheus montre une interpretation contemporaine qui poursuit l'exploration hyperréaliste de l'humain numérique.
 
