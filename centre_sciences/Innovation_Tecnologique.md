@@ -121,23 +121,17 @@ Il faudra aussi un endroit disponible pour pouvoir placer cette exposition et de
 
 ### Expérience vécue:
 
-La position optimal pour les visiteurs est de se tenir à un demi-mètre de distance devant une des télévisions. Les vidéos 
-joue en tout temps mais ils n'ont ni début ni fin et donc peuvent être regardé n'importe quand. 
+La position optimal pour les visiteurs est de s'assoir sur le divan ou sur le fauteuil. Cette position permettra d'être comfortable tout en regardant l'exposition.
+Pour mieux voir les informations écrit sur les panneau il faudra se rapprocher car ils sont placés perpendiculairement par rapport aux vitrine. Une autre position 
+serait de se placer devant la vitrine pour mieux observer les pièces de l'exposition.
 
 ## Aspect plaisant:
 
-Ce qu'il m'a plu est la dédication visible par le créateur des 4 oeuvres. Le temps passé sur ces portraits ont permit de 
-créer ce chef d'oeuvre artistique d'une qualité extraordinaire qui nous permets même de voir les pores de la peau des 
-personnages. Il montre aussi une anatomie humaine qui est réalistique ce qui parle des recherches intensives qu'il a dû 
-faire.
+Ce qu'il m'a plu est l'aspect historique et informatique qu'offre cette exposition. La programmation que nécessite cet oeuvre pour que les lumières soit synchronisé 
+avec la vidéo sur la télévision est impressionante car elle doit continuer de fonctionner du matin au soir sans erreur. J'aime le fait qu'il y aille un lieu où 
+s'assoir car cela permet de pouvoir relaxer tout en regardant l'exposition.
 
 ## Aspect à ne pas retenir:
 
-Je trouve que l'artiste aurait du démontrer plus clairement l'idée qu'il y a lors de la création. par exemple: je trouve que l'oeuvre Tetrad ( photo ci-dessous) est très bien faite, même si elle n'est pas dans mes goûts, mais je ne sais pas vraiment ce que je regarde.
-
-![Tetrad](/BIAN/Medias/femme_multiple.png)
-
-Il en vas de même pour les trois autres oeuvres. J'aurais aimé qu'il soit allé plus loins et plus en détail sur les sujets 
-représenté.
-
-## Références:
+Je trouve que la disposition des panneau d'information à gauche et à droite des pièces derrière la vitrine sont très mal placé car ils forcent les visiteurs à se 
+placer de manière étrange par rapport a la vitrine et qu'il est difficile de voir ce qu'il est écrit a cause du reflet dans la vitre.
