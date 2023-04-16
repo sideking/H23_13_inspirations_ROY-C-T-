@@ -22,7 +22,17 @@ L'oeuvre ADN montre la ressemblance entre l'ADN humain et celles des autres anim
 
 Photo:
 
-![Coeus](/BIAN/Medias/homme.png)
+![Panneau](/centre_sciences/media/humain/ADN_panneau_information.jpg)
+
+![Coeus](/centre_sciences/media/humain/ADN_plaque_SSB.jpg)
+
+![Coeus](/centre_sciences/media/humain/ADN_plaque_aigle.jpg)
+
+![Coeus](/centre_sciences/media/humain/ADN_plaque_chien.jpg)
+
+![Coeus](/centre_sciences/media/humain/ADN_plaque_micro_champignon.jpg)
+
+![Coeus](/centre_sciences/media/humain/ADN_plaque_mouche.jpg)
 
 Vidéo:
 
