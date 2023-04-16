@@ -24,62 +24,34 @@ Photo:
 
 ![Panneau](/centre_sciences/media/humain/ADN_panneau_information.jpg)
 
-![Coeus](/centre_sciences/media/humain/ADN_plaque_SSB.jpg)
+![Plaque](/centre_sciences/media/humain/ADN_plaque_SSB.jpg)
 
-![Coeus](/centre_sciences/media/humain/ADN_plaque_aigle.jpg)
+![Plaque](/centre_sciences/media/humain/ADN_plaque_aigle.jpg)
 
-![Coeus](/centre_sciences/media/humain/ADN_plaque_chien.jpg)
+![Plaque](/centre_sciences/media/humain/ADN_plaque_chien.jpg)
 
-![Coeus](/centre_sciences/media/humain/ADN_plaque_micro_champignon.jpg)
+![Plaque](/centre_sciences/media/humain/ADN_plaque_micro_champignon.jpg)
 
-![Coeus](/centre_sciences/media/humain/ADN_plaque_mouche.jpg)
+![Plaque](/centre_sciences/media/humain/ADN_plaque_mouche.jpg)
 
-Vidéo:
+Cable:
 
-[![Coeus](http://img.youtube.com/vi/96q8DF_y0PM/0.jpg)](https://youtu.be/96q8DF_y0PM)
+![Porte](/centre_sciences/media/humain/ADN_porte_cable.jpg) <br>
+(Porte arrière)
 
-L'oeuvre Prometheus montre une interpretation contemporaine qui poursuit l'exploration hyperréaliste de l'humain numérique.
+![cable](/centre_sciences/media/humain/ADN_cable_MH.png) <br>
+(Ensemble de cable)
+(Photo de Maïk Hamel)
 
-Source: https://ianspriggs.artstation.com/projects/xYeZ51
-
-Photo:
-
-![Prometheus](/BIAN/Medias/femme_vague.png)
-
-Vidéo:
-
-[![Prometheus](http://img.youtube.com/vi/6bNQhw1tL-E/0.jpg)](https://www.youtube.com/watch?v=6bNQhw1tL-E)
-
-L'oeuvre Ichor a pour but de défier nos notions du portrait en allant au-delà de la surface dans la vaste complexité de nos 
-corps.
-
-Source: https://ianspriggs.artstation.com/projects/03OR45
-
-Photo:
-
-![Ichor](/BIAN/Medias/femme_veine.png)
+![Scanneur](/centre_sciences/media/humain/ADN_scanneur_MH.png) <br>
+(Scanneur)
+(Photo de Maïk Hamel)
 
 Vidéo:
 
-[![Ichor](http://img.youtube.com/vi/ZzbgHvzTshw/0.jpg)](https://www.youtube.com/watch?v=ZzbgHvzTshw)
+[![reaction mouvement](http://img.youtube.com/vi/96q8DF_y0PM/0.jpg)](https://youtu.be/96q8DF_y0PM)
 
-L'oeuvre Tetrad explore les conceptes de l'identité, multiples et originals.
-
-Source: https://ianspriggs.artstation.com/projects/ykvBr5
-
-Photo:
-
-![Tetrad](/BIAN/Medias/femme_multiple.png)
-
-Vidéo:
-
-[![Tetrad](http://img.youtube.com/vi/zWm8T04u7qw/0.jpg)](https://www.youtube.com/watch?v=zWm8T04u7qw)
-
-Cartel:
-
-![Cartel](/BIAN/Medias/cartel.png)
-
-### Type d'installation: Contemplative 
+### Type d'installation: Interactive 
 
 ![vue d'ensemble](/BIAN/Medias/vue_ensemble.png)
 
