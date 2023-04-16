@@ -53,21 +53,19 @@ Vidéo:
 
 ### Type d'installation: Interactive 
 
-![vue d'ensemble](/BIAN/Medias/vue_ensemble.png)
+[![reaction mouvement](http://img.youtube.com/vi/96q8DF_y0PM/0.jpg)](https://youtu.be/96q8DF_y0PM))
 
 ### Mise en espace:
 
-![Croquis](/BIAN/Medias/CROQUIS.png)
 
-L'exposition complète est dans une pièce à aire ouverte dans laquelle il y a plusieurs autres oeuvres. Chaque oeuvre est 
-affiché sur des télévision de différente taille à environs 1 mètre d'écart. La distance nécessaire à son exposition est de 
-1.5 mètre par 7.5 mètre.
+# Mettre croquis ici!!!!
+
+
 
 ### Composantes et techniques: 
 
-Cette oeuvre ne nécessite pas de composante pour voyager car il ne sagit qu'une vidéo exposé sur une télévision.
-Les techniques et logiciels utilisé pour créer cette oeuvre sont: Maya et Mudbox pour la modelisation et la texturation,  
-V-RAY RTX-CPU pour le rendu et Davinci pour la composition.
+Cette oeuvre doit être déplacer en entier, car tout les composant sont calibrer pour cette fonction unique.
+Une des techniques utilisé est la programmation pour que les scanneur détecte les plaques et affiche les messsages.
 
 ### Éléments nécessaires à la mise en exposition:
 
