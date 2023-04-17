@@ -19,7 +19,7 @@ Le deuxième sujet est sur le Studio Antimodular. La compagnie compte environs 2
 La conférence a continué sur la structure du studio et de la répartition des départements pour ensuite finir sur les tâches de chaque département. 
 
 
-En conclusion, je trouve que la conférence, ayant pour but de se faire connaitre, à très bien réussi et à surement attirer des recrues pour le futur. Personnellement, ce qu'il m'a le plus impressionné était le documentaire, car il mettait les œuvres en valeur tout en démontrant le nombre de vie qui ont été touché par ces œuvres. 
+En conclusion, je trouve que la conférence, qui avait pour but de faire connaitre la compagnie, à très bien réussi et à surement attirer des recrues pour le futur. Personnellement, ce qu'il m'a le plus impressionné était le documentaire, car il mettait les œuvres en valeur tout en démontrant le nombre de vie qui ont été touché par ces œuvres. 
 
 ## inspiration pour le texte:
 
