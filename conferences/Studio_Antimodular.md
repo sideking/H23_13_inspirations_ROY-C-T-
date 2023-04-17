@@ -12,14 +12,14 @@ Le premier sujet était Rafael Lozano-Hemmel, Rafael Lozano-Hemmer est née à M
 
 <br> 
 
-Le deuxième sujet est sur le Studio Antimodular. La compagnie compte environs 24 employé de lieux diverses ayant tous leurs propres compétences et tâche dans la compagnie. Il y a 5 secteurs de travail dans lequel Cette compagnie travaille : Collections et expositions muséales, Expositions immersives, Art public temporaire, Art public permanent et les Parkour (une œuvre qui s'étire sur un chemin. Il y a eu la présentation d'un documentaire sur Rafael Lozano-Hemmer :  <br> 
+Le deuxième sujet est sur le Studio Antimodular. La compagnie compte environs 24 employé de lieux diverses ayant tous leurs propres compétences et tâche dans la compagnie. Il y a 5 secteurs de travail dans lequel Cette compagnie travaille : Collections et expositions muséales, Expositions immersives, Art public temporaire, Art public permanent et les Parkour (une œuvre qui s'étire sur un chemin). Il y a aussi eu la présentation d'un documentaire sur Rafael Lozano-Hemmer :  <br> 
 
-## insert video here!! <br> 
+[![reaction mouvement](http://img.youtube.com/vi/omxtZUPQ1uU/0.jpg)](https://youtu.be/omxtZUPQ1uU) <br> 
 
 La conférence a continué sur la structure du studio et de la répartition des départements pour ensuite finir sur les tâches de chaque département. 
 
 
-En conclusion, je trouve que la conférence, ayant pour but de se faire connaitre, à très bien réussi et à surement attirer des recrues pour le futur. Personnellement, ce qu'il m'a le plus impressionné était le documentaire, car il mettait les oeuvres  
+En conclusion, je trouve que la conférence, ayant pour but de se faire connaitre, à très bien réussi et à surement attirer des recrues pour le futur. Personnellement, ce qu'il m'a le plus impressionné était le documentaire, car il mettait les œuvres en valeur tout en démontrant le nombre de vie qui ont été touché par ces œuvres. 
 
 ## inspiration pour le texte:
 
