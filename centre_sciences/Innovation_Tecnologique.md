@@ -67,11 +67,7 @@ L'oeuvre Innovations Technologiques nous montre le passé du hockey et les techn
 
 ### Mise en espace:
 
-
-
-
-# DESSINER LE CROQUIS ET LE PLACER ICI!!!!!!
-
+![croquis](/centre_sciences/media/hockey/Hockey_croquis.jpeg)
 
 ### Composantes et techniques: 
 
