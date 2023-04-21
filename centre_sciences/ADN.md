@@ -1,4 +1,4 @@
-# Exposition: Hockey
+# Exposition: Humain
 
 ![banière Humain](/centre_sciences/media/humain/ADN_nom_exposition.jpg)
 
