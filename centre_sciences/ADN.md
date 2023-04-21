@@ -57,10 +57,7 @@ Vidéo:
 
 ### Mise en espace:
 
-
-# Mettre croquis ici!!!!
-
-
+![croquis](/centre_sciences/media/humain/ADN_croquis.jpeg)
 
 ### Composantes et techniques: 
 
