@@ -86,4 +86,4 @@ Bien que j'aime l'aspect déplacement des plaque, je trouve qu'il est dommage qu
 
 ![Tetrad](/centre_sciences/media/humain/ADN_plaque_defaut.jpg)
 
-Il en vas de même pour les trois autres plaques qui agissent de la même façons.
+Il en vas de même pour les cinq autres plaques qui agissent de la même façons.
