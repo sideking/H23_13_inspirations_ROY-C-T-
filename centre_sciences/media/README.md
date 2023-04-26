@@ -1,1 +1,1 @@
-Ce dossier contient les images pour les cntre des sciences et des dossier plus spécifique.
+Ce dossier contient les images pour le centre des sciences et des dossier plus spécifique.
