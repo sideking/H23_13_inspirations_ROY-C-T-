@@ -7,3 +7,7 @@
 * Les information sur l'oeuvre Prometheus.
 
 * Les information sur les oeuvres du thème Mycélium.
+
+* Les informations sur deux oeuvres du centre des sciences.
+
+* Les textes informatif sur des conférences reçue au cours de la session.
