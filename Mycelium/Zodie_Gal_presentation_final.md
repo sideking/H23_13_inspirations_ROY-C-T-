@@ -82,7 +82,7 @@ Un bureau, un écran, un ordinateur, un clavier, une souris et deux haut-parleur
 
 ### Expérience vécue:
 
-La position pour pouvoir intéragir avec cette oeuvr eest de se tenir devant le bureau, debout ou assis pour pouvoir jouer comfortablement. Les visiteur peuvent se joindre a l'exposition a tout moment car l'oeuvre est créer pour que l'on peut rejouer les niveaux déjà fini par les autres. Il est à noter que certaines scènes peuvent être sanglante et donc peuvent déranger certains visiteur.
+La position pour pouvoir intéragir avec cette oeuvre est de se tenir devant le bureau, debout ou assis pour pouvoir jouer comfortablement. Les visiteur peuvent se joindre a l'exposition a tout moment car l'oeuvre est créer pour que l'on peut rejouer les niveaux déjà fini par les autres. Il est à noter que certaines scènes peuvent être sanglante et donc peuvent déranger certains visiteur.
 
 ## Aspect plaisant:
 
