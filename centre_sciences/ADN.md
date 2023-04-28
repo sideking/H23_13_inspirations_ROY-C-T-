@@ -1,16 +1,16 @@
 # Exposition: Humain
 
-![banière Humain](/centre_sciences/media/humain/ADN_nom_exposition.jpg)
+![bannière Humain](/centre_sciences/media/humain/ADN_nom_exposition.jpg)
 
-Cette expositions était exposé au 2 Rue de la Commune Ouest
+Cette exposition était exposée au 2 Rue de la Commune Ouest
 ![entrée centre des sciences](/centre_sciences/media/centre_des_sciences_entre.png) <br>
-(photo de Karine Lecuyer)
+(Photo de Karine Lecuyer)
 
 ### Type d'exposition: exposition de type permanente et intérieur.
 
 ### Date de visite: 12 Avril 2023
 
-## Nom de l'oeuvre: ADN
+## Nom de l'œuvre: ADN
 
 Vue d'ensemble de l'exposition:
 ![vue d'ensemble](/centre_sciences/media/humain/ADN_vue_ensemble_vide.jpg) 
@@ -18,7 +18,7 @@ Vue d'ensemble de l'exposition:
 ![vue d'ensemble](/centre_sciences/media/humain/ADN_vue_ensemble_plein.jpg) 
 
 ### Description: 
-L'oeuvre ADN montre la ressemblance entre l'ADN humain et celles des autres animaux tout en offrant un jeu de cehrche et trouve pour placer les plaques.
+L'œuvre ADN montre la ressemblance entre l'ADN humain et celles des autres animaux tout en offrant un jeu de cherche et trouve pour placer les plaques.
 
 Photo:
 
@@ -39,8 +39,8 @@ Cable:
 ![Porte](/centre_sciences/media/humain/ADN_porte_cable.jpg) <br>
 (Porte arrière)
 
-![cable](/centre_sciences/media/humain/ADN_cable_MH.png) <br>
-(Ensemble de cable)
+![câble](/centre_sciences/media/humain/ADN_cable_MH.png) <br>
+(Ensemble de câble)
 (Photo de Maïk Hamel)
 
 ![Scanneur](/centre_sciences/media/humain/ADN_scanneur_MH.png) <br>
@@ -49,11 +49,11 @@ Cable:
 
 Vidéo:
 
-[![reaction mouvement](http://img.youtube.com/vi/96q8DF_y0PM/0.jpg)](https://youtu.be/96q8DF_y0PM)
+[![réaction mouvement](http://img.youtube.com/vi/96q8DF_y0PM/0.jpg)](https://youtu.be/96q8DF_y0PM)
 
 ### Type d'installation: Interactive 
 
-[![reaction mouvement](http://img.youtube.com/vi/96q8DF_y0PM/0.jpg)](https://youtu.be/96q8DF_y0PM))
+[![réaction mouvement](http://img.youtube.com/vi/96q8DF_y0PM/0.jpg)](https://youtu.be/96q8DF_y0PM))
 
 ### Mise en espace:
 
@@ -61,26 +61,26 @@ Vidéo:
 
 ### Composantes et techniques: 
 
-Cette oeuvre doit être déplacer en entier, car tout les composant sont calibrer pour cette fonction unique.
-Une des techniques utilisé est la programmation pour que les scanneur détecte les plaques et affiche les messsages.
+Cette œuvre doit être déplacer en entier, car tous les composant sont calibrer pour cette fonction unique.
+Une des techniques utilisées est la programmation pour que les scanneurs détectent les plaques et affiche les messages.
 
 ### Éléments nécessaires à la mise en exposition:
 
-Il est nécessaire d'avoir de l'espace pour utiliser cet exposition et des fils pour l'alimenter.
+Il est nécessaire d'avoir de l'espace pour utiliser cette exposition et des fils pour l'alimenter.
 
 ### Expérience vécue:
 
-l'emplacement optimal pour pouvoir utiliser cet oeuvre est d'être juste a côté du meuble pour pouvoir déplacer les plaques et pouvoir lire les informations.
+L’emplacement optimal pour pouvoir utiliser cet œuvre est d'être juste à côté du meuble pour pouvoir déplacer les plaques et pouvoir lire les informations.
 
 
 ## Aspect plaisant:
 
-Ce qu'il m'a plu est la partie jeux de l'oeuvre ou tu dois chercher l'emplacement exact des plaques et l'information obtenu par la suite qui est très niche.
+Ce qu'il m'a plu est la partie jeux de l'œuvre ou tu dois chercher l'emplacement exact des plaques et l'information obtenu par la suite qui est très niche.
 
 ## Aspect à ne pas retenir:
 
-Bien que j'aime l'aspect déplacement des plaque, je trouve qu'il est dommage qu'il y a une possiblilité de tromper le scanneur pour que ça marche quand même si la plaque est à l'envers:
+Bien que j'aime l'aspect déplacement des plaques, je trouve qu'il est dommage qu'il y a une possibilité de tromper le scanneur pour que ça marche quand même si la plaque est à l'envers:
 
-![Tetrad](/centre_sciences/media/humain/ADN_plaque_defaut.jpg)
+![Plaque défaut](/centre_sciences/media/humain/ADN_plaque_defaut.jpg)
 
-Il en vas de même pour les cinq autres plaques qui agissent de la même façons.
+Il en va de même pour les cinq autres plaques qui agissent de la même façon.
