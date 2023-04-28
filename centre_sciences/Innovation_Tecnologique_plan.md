@@ -16,10 +16,9 @@ Pour les aspects plaisant, je trouve que ce qui fait ressortir cette oeuvre est 
 Si je devais faire un lien entre cette oeuvre et une autre, je choisirait l'oeuvre "ADN" qui est aussi du centre des sciences, car il a aussi un aspect informant qui t'aprends plus sur un sujet précis.
 
 ### Conclusion:
-Donc, en bref, Innovation Technologique est une oeuvre temporaire et intérieure créer par la compagnie Flying Fish, est comtemplative
+Donc, en bref, Innovation Technologique est une oeuvre temporaire et intérieure créer par la compagnie Flying Fish en 2023, est comtemplative et a été exposé au musée centre des sciences de Montréal pour l'exposition Hockey.
 
-
-
+Parmit toutes les oeuvre vue au cours de cette session, je trouve que celle sur le thème Mycélium m'interpelle le plus, plus particuliairement Zodie-Gal, car la création de jeux vidéo m'intéresse.
 
 
 # source: 
