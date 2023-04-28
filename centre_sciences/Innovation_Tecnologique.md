@@ -1,25 +1,25 @@
 # Exposition: Hockey
 
-![banière Hockey](/centre_sciences/media/hockey/HOCKEY_nom_exposition.jpg)
+![Bannière Hockey](/centre_sciences/media/hockey/HOCKEY_nom_exposition.jpg)
 
-Cette expositions était exposé au 2 Rue de la Commune Ouest
+Cette exposition était exposée au 2 Rue de la Commune Ouest
 ![entrée centre des sciences](/centre_sciences/media/centre_des_sciences_entre.png) <br>
-(photo de Karine Lecuyer)
+(Photo de Karine Lecuyer)
 
 ### Type d'exposition: exposition de type temporaire et intérieur.
 
 ### Date de visite: 12 Avril 2023
 
-## Nom de l'oeuvre: Innovations Tecnologiques
+## Nom de l'œuvre: Innovations Technologiques
 
-Vue de la vitrine où est placé l'oeuvre. 
+Vue de la vitrine où est placé l'œuvre. 
 ![vue d'ensemble](/centre_sciences/media/hockey/HOCKEY_vue_ensemble.jpg)
 
 ### Créer par Flying Fish
 #### Créer en 2023
 
 ### Description: 
-L'oeuvre Innovations Technologiques nous montre le passé du hockey et les technologies qui y était utilisé
+L'œuvre Innovations Technologiques nous montre le passé du hockey et les technologies qui y était utilisé
 
 #### Intérieur de la vitrine:
 
@@ -71,7 +71,7 @@ L'oeuvre Innovations Technologiques nous montre le passé du hockey et les techn
 
 ### Composantes et techniques: 
 
-Les composants nécessaire a cette exposition sont:
+Les composants nécessaires à cette exposition sont:
   * Les patins
   * Le casque de hockey
   * L'habit de hockey
@@ -85,7 +85,7 @@ Les composants nécessaire a cette exposition sont:
   * La table d'information
   * Les plateforme sur lesquels sont exposé les objets
 
-Les techniques utilisé sont: 
+Les techniques utilisées sont: 
   * La programmation
   * Autres
 
@@ -115,17 +115,13 @@ Il faudra aussi un endroit disponible pour pouvoir placer cette exposition et de
 
 ### Expérience vécue:
 
-La position optimal pour les visiteurs est de s'assoir sur le divan ou sur le fauteuil. Cette position permettra d'être comfortable tout en regardant l'exposition.
-Pour mieux voir les informations écrit sur les panneau il faudra se rapprocher car ils sont placés perpendiculairement par rapport aux vitrine. Une autre position 
-serait de se placer devant la vitrine pour mieux observer les pièces de l'exposition.
+La position optimale pour les visiteurs est de s'assoir sur le divan ou sur le fauteuil. Cette position permettra d'être confortable tout en regardant l'exposition.
+Pour mieux voir les informations écrit sur les panneaux il faudra se rapprocher car ils sont placés perpendiculairement par rapport aux vitrines. Une autre position serait de se placer devant la vitrine pour mieux observer les pièces de l'exposition.
 
 ## Aspect plaisant:
 
-Ce qu'il m'a plu est l'aspect historique et informatique qu'offre cette exposition. La programmation que nécessite cet oeuvre pour que les lumières soit synchronisé 
-avec la vidéo sur la télévision est impressionante car elle doit continuer de fonctionner du matin au soir sans erreur. J'aime le fait qu'il y aille un lieu où 
-s'assoir car cela permet de pouvoir relaxer tout en regardant l'exposition.
+Ce qu'il m'a plu est l'aspect historique et informatique qu'offre cette exposition. La programmation que nécessite cet œuvre pour que les lumières soit synchronisé avec la vidéo sur la télévision est impressionnante car elle doit continuer de fonctionner du matin au soir sans erreur. J'aime le fait qu'il y aille un lieu où s’assoir car cela permet de pouvoir relaxer tout en regardant l'exposition.
 
 ## Aspect à ne pas retenir:
 
-Je trouve que la disposition des panneau d'information à gauche et à droite des pièces derrière la vitrine sont très mal placé car ils forcent les visiteurs à se 
-placer de manière étrange par rapport a la vitrine et qu'il est difficile de voir ce qu'il est écrit a cause du reflet dans la vitre.
+Je trouve que la disposition des panneaux d'information à gauche et à droite des pièces derrière la vitrine sont très mal placé car ils forcent les visiteurs à se placer de manière étrange par rapport à la vitrine et qu'il est difficile de voir ce qu'il est écrit à cause du reflet dans la vitre.
